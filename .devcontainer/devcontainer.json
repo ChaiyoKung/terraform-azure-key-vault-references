@@ -13,7 +13,8 @@
 			"extensions": [
 				"eamodio.gitlens",
 				"GitHub.copilot",
-				"mhutchie.git-graph"
+				"mhutchie.git-graph",
+				"DavidAnson.vscode-markdownlint"
 			]
 		}
 	}
