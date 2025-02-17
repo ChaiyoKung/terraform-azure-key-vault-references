@@ -14,7 +14,8 @@
 				"eamodio.gitlens",
 				"GitHub.copilot",
 				"mhutchie.git-graph",
-				"DavidAnson.vscode-markdownlint"
+				"DavidAnson.vscode-markdownlint",
+				"vivaxy.vscode-conventional-commits"
 			]
 		}
 	}
